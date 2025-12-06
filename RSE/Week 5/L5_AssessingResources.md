@@ -37,9 +37,9 @@ Section 2: Take your task list & estimate the time & costs needed to complete al
 Section 3: Determine the full lenghth of your start up phase (Launch + 3 months) 
 (Follow the steps on Slide 7: "Estimate Startup Phase")
 
-1. [Total time to complete all tasks: hrs (+480)] 
-2. [Hrs per week free to commit to tasks: hrs]
-3. [Startup Phase Length: hrs/months]
+1. [Total time to complete all tasks: hrs (+480)] 482
+2. [Hrs per week free to commit to tasks: hrs] 3
+3. [Startup Phase Length: hrs/months] 482 / 3 = 160 = 40 months = 3.3 years
 
 ----------------------------------------------------------------------
 
